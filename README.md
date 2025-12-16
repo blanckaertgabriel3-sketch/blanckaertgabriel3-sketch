@@ -6,6 +6,7 @@
 
 
 <h3>When I code, I rely on</h3>
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <!-- <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" /> -->
@@ -36,13 +37,16 @@
 </p>
 
 <h3>My GitHub languages</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blanckaertgabriel3-sketch&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e)
 
 
 <h3>My GitHub contributions summary</h3>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blanckaertgabriel3-sketch&show_icons=true&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
 
 <h3>My LinkedIn</h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-fb4362?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gabriel-blanckaert-1a676b38a/)
 
 
