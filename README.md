@@ -2,7 +2,8 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![Profile views](https://komarev.com/ghpvc/?username=blanckaertgabriel3-sketch&color=fb4362)
+
 
 <h3>When I code, I rely on</h3>
 <p>
@@ -39,8 +40,6 @@
 
 
 <h3>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=blanckaertgabriel3-sketch&theme=dark&hide_border=true&ring=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blanckaertgabriel3-sketch&show_icons=true&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
 
