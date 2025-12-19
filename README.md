@@ -38,8 +38,9 @@
 
 <h3>My GitHub languages</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blanckaertgabriel3-sketch&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e)
+ <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blanckaertgabriel3-sketch&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e)-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blanckaertgabriel3-sketch&layout=donut&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e)](https://github.com/blanckaertgabriel3-sketch/github-readme-stats)
 
 <h3>My GitHub contributions summary</h3>
 
