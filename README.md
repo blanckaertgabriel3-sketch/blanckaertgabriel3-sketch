@@ -12,7 +12,7 @@ Interessé par le développement web et embarqué, je cherche à mettre mes comp
 
 ## Contact
 
-- Email : [gabriel.blanckaert@codastudent.school](mailto:gabriel.blanckaert@coda-student.school)
+- Email : [gabriel.blanckaert@coda-student.school](mailto:gabriel.blanckaert@coda-student.school)
 - LinkedIn : [gabriel-blanckaert](https://www.linkedin.com/in/gabriel-blanckaert-1a676b38a/)
 
 ---
