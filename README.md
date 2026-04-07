@@ -6,15 +6,13 @@
 ## À propos
 
 Étudiant en 1ère année de Bachelor Développeur Fullstack, avec 3 ans de pratique technique via la filière STI2D option SIN.  
-Passionné par le développement web et embarqué, je cherche à mettre mes compétences en pratique sur des projets ambitieux.
+Interessé par le développement web et embarqué, je cherche à mettre mes compétences en pratique sur des projets ambitieux.
 
 ---
 
 ## Contact
 
-- Email : [gabriel.blanckaert@codastudent.school](mailto:gabriel.blanckaert@codastudent.school)
-- Téléphone : 06 33 82 22 28
-- GitHub : [blanckaertgabriel3-sketch](https://github.com/blanckaertgabriel3-sketch)
+- Email : [gabriel.blanckaert@codastudent.school](mailto:gabriel.blanckaert@coda-student.school)
 - LinkedIn : [gabriel-blanckaert](https://www.linkedin.com/in/gabriel-blanckaert-1a676b38a/)
 
 ---
